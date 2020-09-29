@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dialogs>
+    <NPC name="Roll">
+        <Dialog id="0">
+            <type>text</type>
+            <img>0</img>
+            <text>Stop right there!</text>
+            <nextID>1</nextID>
+        </Dialog>
+        <Dialog id="1">
+            <type>text</type>
+            <img>1</img>
+            <text>Did you know, that you can use those chips to get power ups? Just come see me if you want megasuperpowerups!</text>
+            <nextID>2</nextID>
+        </Dialog>
+        <Dialog id="2">
+            <type>question</type>
+            <img>2</img>
+            <text>So ready to turn those chips to something useful?</text>
+            <answer func="openShop">Lets see what you got</answer>
+            <answer func="exitDialog">No way! My chips, MYYYY!</answer>
+            <answer func="jumpTo" nextID="0">Lets go back to the start.</answer>
+        </Dialog>
+    </NPC>
+</dialogs>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shops>
+    <NPC name="Roll">
+        <Item id="0">
+            <name>HP +10</name>
+            <cost>500</cost>
+            <gameHandler>Player.maxHP</gameHandler>
+            <afterBuy value="150">costUp</afterBuy>
+        </Item>
+        <Item id="1">
+            <name>Damage +5</name>
+            <cost>1000</cost>
+            <gameHandler>Player.damage</gameHandler>
+            <afterBuy value="200">costUp</afterBuy>
+        </Item>
+        <Item id="2">
+            <name>new E-Tank</name>
+            <cost>3000</cost>
+            <gameHandler>Inventory.e-tankCount</gameHandler>
+            <afterBuy value="1000">costUp</afterBuy>
+        </Item>
+        <Item id="3">
+            <name>Air Slide</name>
+            <cost>5000</cost>
+            <gameHandler>Player.airSlide</gameHandler>
+            <afterBuy>delete</afterBuy>
+        </Item>
+        <Item id="4">
+            <name>Wall Jump</name>
+            <cost>30</cost>
+            <gameHandler>Player.wallJump</gameHandler>
+            <afterBuy>delete</afterBuy>
+        </Item>
+        <Item id="5">
+            <name>Double Jump</name>
+            <cost>30</cost>
+            <gameHandler>Player.doubleJump</gameHandler>
+            <afterBuy>delete</afterBuy>
+        </Item>
+           
+    </NPC>
+</shops>

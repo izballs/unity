@@ -1,0 +1,4624 @@
+fileFormatVersion: 2
+guid: 4508a97fe0baa71b4a4939fcb73ca12a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3279483664524673849
+    second: SigmaTerrain01_0
+  - first:
+      213: 3180969764660239169
+    second: SigmaTerrain01_1
+  - first:
+      213: -4243217871222265020
+    second: SigmaTerrain01_2
+  - first:
+      213: 8419165395626020362
+    second: SigmaTerrain01_3
+  - first:
+      213: 2330576387234078557
+    second: SigmaTerrain01_4
+  - first:
+      213: -5544634424155471878
+    second: SigmaTerrain01_5
+  - first:
+      213: -1026914179930267788
+    second: SigmaTerrain01_6
+  - first:
+      213: -1512941638760317946
+    second: SigmaTerrain01_7
+  - first:
+      213: -1255247739997812090
+    second: SigmaTerrain01_8
+  - first:
+      213: -376529168199141541
+    second: SigmaTerrain01_9
+  - first:
+      213: -3381738678120073703
+    second: SigmaTerrain01_10
+  - first:
+      213: 6378420446523323069
+    second: SigmaTerrain01_11
+  - first:
+      213: -4248677199973733693
+    second: SigmaTerrain01_12
+  - first:
+      213: 7065270481315667763
+    second: SigmaTerrain01_13
+  - first:
+      213: 1949282566048707659
+    second: SigmaTerrain01_14
+  - first:
+      213: 3895913779350613039
+    second: SigmaTerrain01_15
+  - first:
+      213: -199007098855827402
+    second: SigmaTerrain01_16
+  - first:
+      213: 8128072803694783358
+    second: SigmaTerrain01_17
+  - first:
+      213: -2281213304961279605
+    second: SigmaTerrain01_18
+  - first:
+      213: -3006229181398183731
+    second: SigmaTerrain01_19
+  - first:
+      213: -3434659734588014357
+    second: SigmaTerrain01_20
+  - first:
+      213: -7591108395186694451
+    second: SigmaTerrain01_21
+  - first:
+      213: 6953787079893091093
+    second: SigmaTerrain01_22
+  - first:
+      213: 8174446701301249896
+    second: SigmaTerrain01_23
+  - first:
+      213: -5089835303165325493
+    second: SigmaTerrain01_24
+  - first:
+      213: 9194629675389368695
+    second: SigmaTerrain01_25
+  - first:
+      213: -2799085007073023095
+    second: SigmaTerrain01_26
+  - first:
+      213: 745520512766243306
+    second: SigmaTerrain01_27
+  - first:
+      213: 5513736817770849722
+    second: SigmaTerrain01_28
+  - first:
+      213: -5363195799338514520
+    second: SigmaTerrain01_29
+  - first:
+      213: 5785813869104673274
+    second: SigmaTerrain01_30
+  - first:
+      213: 8189218373554860360
+    second: SigmaTerrain01_31
+  - first:
+      213: -8841842033905825750
+    second: SigmaTerrain01_32
+  - first:
+      213: 2148768960520168930
+    second: SigmaTerrain01_33
+  - first:
+      213: -785060644221752425
+    second: SigmaTerrain01_34
+  - first:
+      213: 8135828463630708462
+    second: SigmaTerrain01_35
+  - first:
+      213: -1345250834683718837
+    second: SigmaTerrain01_36
+  - first:
+      213: -8228316450929134299
+    second: SigmaTerrain01_37
+  - first:
+      213: 3033926054338308797
+    second: SigmaTerrain01_38
+  - first:
+      213: -7490891838170767453
+    second: SigmaTerrain01_39
+  - first:
+      213: -1638437672128548681
+    second: SigmaTerrain01_40
+  - first:
+      213: 7802302478314782139
+    second: SigmaTerrain01_41
+  - first:
+      213: -7359416272733646536
+    second: SigmaTerrain01_42
+  - first:
+      213: -6820796228115315238
+    second: SigmaTerrain01_43
+  - first:
+      213: -6578541163140067372
+    second: SigmaTerrain01_44
+  - first:
+      213: -6999502365475965140
+    second: SigmaTerrain01_45
+  - first:
+      213: 3694288662776320624
+    second: SigmaTerrain01_46
+  - first:
+      213: 6498912419091606954
+    second: SigmaTerrain01_47
+  - first:
+      213: -1945620543713080681
+    second: SigmaTerrain01_48
+  - first:
+      213: -3629720178671193234
+    second: SigmaTerrain01_49
+  - first:
+      213: -3056629494554907145
+    second: SigmaTerrain01_50
+  - first:
+      213: 914510045532613609
+    second: SigmaTerrain01_51
+  - first:
+      213: 6445178538746540644
+    second: SigmaTerrain01_52
+  - first:
+      213: 2292786767434486613
+    second: SigmaTerrain01_53
+  - first:
+      213: -2999388131250435917
+    second: SigmaTerrain01_54
+  - first:
+      213: -106448905065602038
+    second: SigmaTerrain01_55
+  - first:
+      213: -1380219672303021072
+    second: SigmaTerrain01_56
+  - first:
+      213: -4919180424763726894
+    second: SigmaTerrain01_57
+  - first:
+      213: -3677070180383155491
+    second: SigmaTerrain01_58
+  - first:
+      213: 2181632231451767486
+    second: SigmaTerrain01_59
+  - first:
+      213: 3421525465336483477
+    second: SigmaTerrain01_60
+  - first:
+      213: 6017306902798074923
+    second: SigmaTerrain01_61
+  - first:
+      213: -9162551560070474774
+    second: SigmaTerrain01_62
+  - first:
+      213: -1415605790316110624
+    second: SigmaTerrain01_63
+  - first:
+      213: 11474694118334377
+    second: SigmaTerrain01_64
+  - first:
+      213: 805103262366537150
+    second: SigmaTerrain01_65
+  - first:
+      213: -6948289586031551126
+    second: SigmaTerrain01_66
+  - first:
+      213: -6039424609304338022
+    second: SigmaTerrain01_67
+  - first:
+      213: -2466623593739323140
+    second: SigmaTerrain01_68
+  - first:
+      213: -3336498359519603618
+    second: SigmaTerrain01_69
+  - first:
+      213: -274303548082029763
+    second: SigmaTerrain01_70
+  - first:
+      213: 5272501399801877956
+    second: SigmaTerrain01_71
+  - first:
+      213: 4650679957805483915
+    second: SigmaTerrain01_72
+  - first:
+      213: -7613149501009915928
+    second: SigmaTerrain01_73
+  - first:
+      213: 5512390257540308566
+    second: SigmaTerrain01_74
+  - first:
+      213: -3308273558180585114
+    second: SigmaTerrain01_75
+  - first:
+      213: 7608283581457453204
+    second: SigmaTerrain01_76
+  - first:
+      213: -2713259806657743234
+    second: SigmaTerrain01_77
+  - first:
+      213: 6745252681467205540
+    second: SigmaTerrain01_78
+  - first:
+      213: -6652083900446647102
+    second: SigmaTerrain01_79
+  - first:
+      213: 110780905345929894
+    second: SigmaTerrain01_80
+  - first:
+      213: -784131188115746056
+    second: SigmaTerrain01_81
+  - first:
+      213: -6760275730955454981
+    second: SigmaTerrain01_82
+  - first:
+      213: -2004062185233168002
+    second: SigmaTerrain01_83
+  - first:
+      213: -8065199662429854569
+    second: SigmaTerrain01_84
+  - first:
+      213: -7573877345829748285
+    second: SigmaTerrain01_85
+  - first:
+      213: -5009693540835787044
+    second: SigmaTerrain01_86
+  - first:
+      213: 8038631720736973990
+    second: SigmaTerrain01_87
+  - first:
+      213: 937046139386006700
+    second: SigmaTerrain01_88
+  - first:
+      213: -3453308154903385290
+    second: SigmaTerrain01_89
+  - first:
+      213: -5046982781777383620
+    second: SigmaTerrain01_90
+  - first:
+      213: -6110800860772750212
+    second: SigmaTerrain01_91
+  - first:
+      213: -8471203735560361517
+    second: SigmaTerrain01_92
+  - first:
+      213: 3556998443782638534
+    second: SigmaTerrain01_93
+  - first:
+      213: 7817650804144315473
+    second: SigmaTerrain01_94
+  - first:
+      213: 189575973791033045
+    second: SigmaTerrain01_95
+  - first:
+      213: -7570156928485206150
+    second: SigmaTerrain01_96
+  - first:
+      213: -4515885146630173559
+    second: SigmaTerrain01_97
+  - first:
+      213: -549076770406924524
+    second: SigmaTerrain01_98
+  - first:
+      213: 4187399645362942802
+    second: SigmaTerrain01_99
+  - first:
+      213: -6973698343610801650
+    second: SigmaTerrain01_100
+  - first:
+      213: 8209608438156916190
+    second: SigmaTerrain01_101
+  - first:
+      213: -2797751218640636782
+    second: SigmaTerrain01_102
+  - first:
+      213: -1402100259731877077
+    second: SigmaTerrain01_103
+  - first:
+      213: 2965945733216206008
+    second: SigmaTerrain01_104
+  - first:
+      213: 3235358300418136645
+    second: SigmaTerrain01_105
+  - first:
+      213: 1707238251473036469
+    second: SigmaTerrain01_106
+  - first:
+      213: -3314411044205984845
+    second: SigmaTerrain01_107
+  - first:
+      213: 1821683076501895290
+    second: SigmaTerrain01_108
+  - first:
+      213: -4201021917472184696
+    second: SigmaTerrain01_109
+  - first:
+      213: 7387842794432553222
+    second: SigmaTerrain01_110
+  - first:
+      213: -970049309713282279
+    second: SigmaTerrain01_111
+  - first:
+      213: 9197521336258093213
+    second: SigmaTerrain01_112
+  - first:
+      213: 1895433108136566922
+    second: SigmaTerrain01_113
+  - first:
+      213: 2125208501241309805
+    second: SigmaTerrain01_114
+  - first:
+      213: 24722190378407948
+    second: SigmaTerrain01_115
+  - first:
+      213: -378426309368381650
+    second: SigmaTerrain01_116
+  - first:
+      213: -748036280990437807
+    second: SigmaTerrain01_117
+  - first:
+      213: -6369590363436826668
+    second: SigmaTerrain01_118
+  - first:
+      213: -6529902600409196920
+    second: SigmaTerrain01_119
+  - first:
+      213: 2846642995030387122
+    second: SigmaTerrain01_120
+  - first:
+      213: -6787322419733556905
+    second: SigmaTerrain01_121
+  - first:
+      213: 5081585329463738855
+    second: SigmaTerrain01_122
+  - first:
+      213: 9130185204215550394
+    second: SigmaTerrain01_123
+  - first:
+      213: 7689099832428921607
+    second: SigmaTerrain01_124
+  - first:
+      213: -2968634475409541235
+    second: SigmaTerrain01_125
+  - first:
+      213: 1839314279106978572
+    second: SigmaTerrain01_126
+  - first:
+      213: 654570141172001578
+    second: SigmaTerrain01_127
+  - first:
+      213: -7642090361715758991
+    second: SigmaTerrain01_128
+  - first:
+      213: 4786920492107140458
+    second: SigmaTerrain01_129
+  - first:
+      213: -7008687984389764745
+    second: SigmaTerrain01_130
+  - first:
+      213: -3046884944225339740
+    second: SigmaTerrain01_131
+  - first:
+      213: -4729981060774281941
+    second: SigmaTerrain01_132
+  - first:
+      213: -2548870178131629029
+    second: SigmaTerrain01_133
+  - first:
+      213: 2594084789666777682
+    second: SigmaTerrain01_134
+  - first:
+      213: 5031839750535330281
+    second: SigmaTerrain01_135
+  - first:
+      213: -8199073080256740854
+    second: SigmaTerrain01_136
+  - first:
+      213: 8844179148383009193
+    second: SigmaTerrain01_137
+  - first:
+      213: 1014906822878076728
+    second: SigmaTerrain01_138
+  - first:
+      213: -3593798316626065769
+    second: SigmaTerrain01_139
+  - first:
+      213: 3436053043976559456
+    second: SigmaTerrain01_140
+  - first:
+      213: -2035676631270669564
+    second: SigmaTerrain01_141
+  - first:
+      213: 7990112722553704876
+    second: SigmaTerrain01_142
+  - first:
+      213: 1878427199338021768
+    second: SigmaTerrain01_143
+  - first:
+      213: -3881551794834977579
+    second: SigmaTerrain01_144
+  - first:
+      213: 633414679854125459
+    second: SigmaTerrain01_145
+  - first:
+      213: 6330153262102466433
+    second: SigmaTerrain01_146
+  - first:
+      213: 4702000532811275548
+    second: SigmaTerrain01_147
+  - first:
+      213: -1072442647639035363
+    second: SigmaTerrain01_148
+  - first:
+      213: 6503769047145891018
+    second: SigmaTerrain01_149
+  - first:
+      213: -2268599961787406603
+    second: SigmaTerrain01_150
+  - first:
+      213: 6160844904969243076
+    second: SigmaTerrain01_151
+  - first:
+      213: 3105378992017806101
+    second: SigmaTerrain01_152
+  - first:
+      213: -3368723114778695594
+    second: SigmaTerrain01_153
+  - first:
+      213: 5197558764313571968
+    second: SigmaTerrain01_154
+  - first:
+      213: 247854293207257878
+    second: SigmaTerrain01_155
+  - first:
+      213: -3469282078409881045
+    second: SigmaTerrain01_156
+  - first:
+      213: -7221936288432562289
+    second: SigmaTerrain01_157
+  - first:
+      213: -2813086843238375670
+    second: SigmaTerrain01_158
+  - first:
+      213: 8605174652892911409
+    second: SigmaTerrain01_159
+  - first:
+      213: -7778019863576014651
+    second: SigmaTerrain01_160
+  - first:
+      213: 4515448068966225620
+    second: SigmaTerrain01_161
+  - first:
+      213: -7934668472862491628
+    second: SigmaTerrain01_162
+  - first:
+      213: -8742244330167553713
+    second: SigmaTerrain01_163
+  - first:
+      213: 7018655368434927372
+    second: SigmaTerrain01_164
+  - first:
+      213: 2048517481784737944
+    second: SigmaTerrain01_165
+  - first:
+      213: 452414274689295886
+    second: SigmaTerrain01_166
+  - first:
+      213: -4856969270596271651
+    second: SigmaTerrain01_167
+  - first:
+      213: -4360476783808573420
+    second: SigmaTerrain01_168
+  - first:
+      213: -1556744716026327656
+    second: SigmaTerrain01_169
+  - first:
+      213: 7693505865247365088
+    second: SigmaTerrain01_170
+  - first:
+      213: -8430836849812089505
+    second: SigmaTerrain01_171
+  - first:
+      213: 3070573397545630200
+    second: SigmaTerrain01_172
+  - first:
+      213: 6274610686791849384
+    second: SigmaTerrain01_173
+  - first:
+      213: 6006332811559948038
+    second: SigmaTerrain01_174
+  - first:
+      213: 1970046567736358379
+    second: SigmaTerrain01_175
+  - first:
+      213: -2883036853901272558
+    second: SigmaTerrain01_176
+  - first:
+      213: 6792657922783056644
+    second: SigmaTerrain01_177
+  - first:
+      213: 1293665559088925092
+    second: SigmaTerrain01_178
+  - first:
+      213: -3262997173022636714
+    second: SigmaTerrain01_179
+  - first:
+      213: -3561476552704898380
+    second: SigmaTerrain01_180
+  - first:
+      213: 6609500338265667832
+    second: SigmaTerrain01_181
+  - first:
+      213: 8199793019235934804
+    second: SigmaTerrain01_182
+  - first:
+      213: -9065507365381543514
+    second: SigmaTerrain01_183
+  - first:
+      213: -3095924077863654771
+    second: SigmaTerrain01_184
+  - first:
+      213: 6762080226548105075
+    second: SigmaTerrain01_185
+  - first:
+      213: 1741941118566771566
+    second: SigmaTerrain01_186
+  - first:
+      213: 1475925771767112696
+    second: SigmaTerrain01_187
+  - first:
+      213: 2529170346406249520
+    second: SigmaTerrain01_188
+  - first:
+      213: 3533819975261864910
+    second: SigmaTerrain01_189
+  - first:
+      213: -7212704237641100981
+    second: SigmaTerrain01_190
+  - first:
+      213: 8368679803946418593
+    second: SigmaTerrain01_191
+  - first:
+      213: 4853340016443737058
+    second: SigmaTerrain01_192
+  - first:
+      213: -1496929107821089078
+    second: SigmaTerrain01_193
+  - first:
+      213: -8058437673840896948
+    second: SigmaTerrain01_194
+  - first:
+      213: 2520362808376726007
+    second: SigmaTerrain01_195
+  - first:
+      213: -371128981018501716
+    second: SigmaTerrain01_196
+  - first:
+      213: -7806724841593754018
+    second: SigmaTerrain01_197
+  - first:
+      213: -8389137883628674502
+    second: SigmaTerrain01_198
+  - first:
+      213: 142276004178953228
+    second: SigmaTerrain01_199
+  - first:
+      213: -2891888792958110333
+    second: SigmaTerrain01_200
+  - first:
+      213: 3597913652854848107
+    second: SigmaTerrain01_201
+  - first:
+      213: 7295240638754546206
+    second: SigmaTerrain01_202
+  - first:
+      213: 4652967869822281161
+    second: SigmaTerrain01_203
+  - first:
+      213: -8617511151451960825
+    second: SigmaTerrain01_204
+  - first:
+      213: 5000881208837158119
+    second: SigmaTerrain01_205
+  - first:
+      213: 3133761331911223063
+    second: SigmaTerrain01_206
+  - first:
+      213: -3705294649881814676
+    second: SigmaTerrain01_207
+  - first:
+      213: -5089810442912861328
+    second: SigmaTerrain01_208
+  - first:
+      213: -5867642240093926479
+    second: SigmaTerrain01_209
+  - first:
+      213: -9211499680946699645
+    second: SigmaTerrain01_210
+  - first:
+      213: 1072332079638380655
+    second: SigmaTerrain01_211
+  - first:
+      213: -7945975820573978512
+    second: SigmaTerrain01_212
+  - first:
+      213: -5740255238368148951
+    second: SigmaTerrain01_213
+  - first:
+      213: -2252798026843474136
+    second: SigmaTerrain01_214
+  - first:
+      213: 8650556157957006466
+    second: SigmaTerrain01_215
+  - first:
+      213: -4475079750314994710
+    second: SigmaTerrain01_216
+  - first:
+      213: 4131067108694442844
+    second: SigmaTerrain01_217
+  - first:
+      213: -533756809797704299
+    second: SigmaTerrain01_218
+  - first:
+      213: 5295510685079055215
+    second: SigmaTerrain01_219
+  - first:
+      213: 81648003808476829
+    second: SigmaTerrain01_220
+  - first:
+      213: 5099428655167868578
+    second: SigmaTerrain01_221
+  - first:
+      213: -4036142374974694546
+    second: SigmaTerrain01_222
+  - first:
+      213: 5177702756285723925
+    second: SigmaTerrain01_223
+  - first:
+      213: 866780184182541084
+    second: SigmaTerrain01_224
+  - first:
+      213: -5241321941106916402
+    second: SigmaTerrain01_225
+  - first:
+      213: -3421323940842157134
+    second: SigmaTerrain01_226
+  - first:
+      213: -4140271705583381144
+    second: SigmaTerrain01_227
+  - first:
+      213: -873972200371240640
+    second: SigmaTerrain01_228
+  - first:
+      213: 9190892353350316955
+    second: SigmaTerrain01_229
+  - first:
+      213: -8361716665818902202
+    second: SigmaTerrain01_230
+  - first:
+      213: 6672134172650181962
+    second: SigmaTerrain01_231
+  - first:
+      213: -4861031045571280388
+    second: SigmaTerrain01_232
+  - first:
+      213: 5900557987158246380
+    second: SigmaTerrain01_233
+  - first:
+      213: -475241805141222075
+    second: SigmaTerrain01_234
+  - first:
+      213: -8187756047805816242
+    second: SigmaTerrain01_235
+  - first:
+      213: -5108463283265552263
+    second: SigmaTerrain01_236
+  - first:
+      213: 8457080090402161081
+    second: SigmaTerrain01_237
+  - first:
+      213: -2771434954192673843
+    second: SigmaTerrain01_238
+  - first:
+      213: 3139346647995131681
+    second: SigmaTerrain01_239
+  - first:
+      213: 8487703910660599248
+    second: SigmaTerrain01_240
+  - first:
+      213: -7894544106739973218
+    second: SigmaTerrain01_241
+  - first:
+      213: 4067761303416507276
+    second: SigmaTerrain01_242
+  - first:
+      213: -3561661220545613602
+    second: SigmaTerrain01_243
+  - first:
+      213: 5631576270023436088
+    second: SigmaTerrain01_244
+  - first:
+      213: 435538781479509002
+    second: SigmaTerrain01_245
+  - first:
+      213: -6895265593278423348
+    second: SigmaTerrain01_246
+  - first:
+      213: -6205184087205473280
+    second: SigmaTerrain01_247
+  - first:
+      213: 16098093435518531
+    second: SigmaTerrain01_248
+  - first:
+      213: -2018197217209185230
+    second: SigmaTerrain01_249
+  - first:
+      213: -4705182607441268022
+    second: SigmaTerrain01_250
+  - first:
+      213: 7697881894092054647
+    second: SigmaTerrain01_251
+  - first:
+      213: 6678149337923191014
+    second: SigmaTerrain01_252
+  - first:
+      213: 5230254101305754674
+    second: SigmaTerrain01_253
+  - first:
+      213: 4173723111094829823
+    second: SigmaTerrain01_254
+  - first:
+      213: 5164949595918824184
+    second: SigmaTerrain01_255
+  - first:
+      213: 1850723121662638502
+    second: SigmaTerrain01_256
+  - first:
+      213: -8805417684128863529
+    second: SigmaTerrain01_257
+  - first:
+      213: -8728868396877792234
+    second: SigmaTerrain01_258
+  - first:
+      213: -5847534426641264232
+    second: SigmaTerrain01_259
+  - first:
+      213: -1476461571667003317
+    second: SigmaTerrain01_260
+  - first:
+      213: 267830274637185963
+    second: SigmaTerrain01_261
+  - first:
+      213: -8090350664323250608
+    second: SigmaTerrain01_262
+  - first:
+      213: 4887556936732270449
+    second: SigmaTerrain01_263
+  - first:
+      213: -6139292414179587878
+    second: SigmaTerrain01_264
+  - first:
+      213: -6831151103095403508
+    second: SigmaTerrain01_265
+  - first:
+      213: -8733758698772707125
+    second: SigmaTerrain01_266
+  - first:
+      213: -5100585629279722827
+    second: SigmaTerrain01_267
+  - first:
+      213: -7761990886480290615
+    second: SigmaTerrain01_268
+  - first:
+      213: 2497867985305395536
+    second: SigmaTerrain01_269
+  - first:
+      213: 7821091478453903555
+    second: SigmaTerrain01_270
+  - first:
+      213: -1982482365877251761
+    second: SigmaTerrain01_271
+  - first:
+      213: 2857740517572755565
+    second: SigmaTerrain01_272
+  - first:
+      213: -1897415376932902677
+    second: SigmaTerrain01_273
+  - first:
+      213: 1804213509351560410
+    second: SigmaTerrain01_274
+  - first:
+      213: -2408063722473362903
+    second: SigmaTerrain01_275
+  - first:
+      213: -8376053650970987141
+    second: SigmaTerrain01_276
+  - first:
+      213: 9203061364563902976
+    second: SigmaTerrain01_277
+  - first:
+      213: 7744831082767778263
+    second: SigmaTerrain01_278
+  - first:
+      213: 4574129183616021230
+    second: SigmaTerrain01_279
+  - first:
+      213: 5126400197488565266
+    second: SigmaTerrain01_280
+  - first:
+      213: 1021447428655774690
+    second: SigmaTerrain01_281
+  - first:
+      213: 1719022898272740457
+    second: SigmaTerrain01_282
+  - first:
+      213: -3786250380832759600
+    second: SigmaTerrain01_283
+  - first:
+      213: 8408487006823168580
+    second: SigmaTerrain01_284
+  - first:
+      213: -2689072279783076359
+    second: SigmaTerrain01_285
+  - first:
+      213: 2749521981255079832
+    second: SigmaTerrain01_286
+  - first:
+      213: -1938224068178492954
+    second: SigmaTerrain01_287
+  - first:
+      213: 6184217355196013630
+    second: SigmaTerrain01_288
+  - first:
+      213: -8980336979672776606
+    second: SigmaTerrain01_289
+  - first:
+      213: -2783321702004109009
+    second: SigmaTerrain01_290
+  - first:
+      213: 156009767325550301
+    second: SigmaTerrain01_291
+  - first:
+      213: 6705403649126153491
+    second: SigmaTerrain01_292
+  - first:
+      213: -3124763373135927527
+    second: SigmaTerrain01_293
+  - first:
+      213: -4809735912294962021
+    second: SigmaTerrain01_294
+  - first:
+      213: -4205568676880588617
+    second: SigmaTerrain01_295
+  - first:
+      213: 8738251467626307992
+    second: SigmaTerrain01_296
+  - first:
+      213: -2621093878968807967
+    second: SigmaTerrain01_297
+  - first:
+      213: 7069940745985906876
+    second: SigmaTerrain01_298
+  - first:
+      213: 4279307937929006909
+    second: SigmaTerrain01_299
+  - first:
+      213: 3714892096780023359
+    second: SigmaTerrain01_300
+  - first:
+      213: 6779219348238864572
+    second: SigmaTerrain01_301
+  - first:
+      213: -5035046081532062370
+    second: SigmaTerrain01_302
+  - first:
+      213: -8679177433410968315
+    second: SigmaTerrain01_303
+  - first:
+      213: 9134772507945853400
+    second: SigmaTerrain01_304
+  - first:
+      213: 619494898401956540
+    second: SigmaTerrain01_305
+  - first:
+      213: 7736619798945482070
+    second: SigmaTerrain01_306
+  - first:
+      213: -5216391939176501721
+    second: SigmaTerrain01_307
+  - first:
+      213: 599494603534739856
+    second: SigmaTerrain01_308
+  - first:
+      213: -7594915160705251381
+    second: SigmaTerrain01_309
+  - first:
+      213: -470960993464857671
+    second: SigmaTerrain01_310
+  - first:
+      213: 4159123585466819415
+    second: SigmaTerrain01_311
+  - first:
+      213: 2538163440470701911
+    second: SigmaTerrain01_312
+  - first:
+      213: -604461699655619579
+    second: SigmaTerrain01_313
+  - first:
+      213: -7217602746180804870
+    second: SigmaTerrain01_314
+  - first:
+      213: -8362358272438304180
+    second: SigmaTerrain01_315
+  - first:
+      213: -1173327899268329820
+    second: SigmaTerrain01_316
+  - first:
+      213: -307501500491360001
+    second: SigmaTerrain01_317
+  - first:
+      213: 1202022426859279957
+    second: SigmaTerrain01_318
+  - first:
+      213: 2279010890035857591
+    second: SigmaTerrain01_319
+  - first:
+      213: 8817353798481029674
+    second: SigmaTerrain01_320
+  - first:
+      213: -2550606120220530871
+    second: SigmaTerrain01_321
+  - first:
+      213: 8123776694443751865
+    second: SigmaTerrain01_322
+  - first:
+      213: 8731124007081627986
+    second: SigmaTerrain01_323
+  - first:
+      213: 605582025695435163
+    second: SigmaTerrain01_324
+  - first:
+      213: 6466719566745018821
+    second: SigmaTerrain01_325
+  - first:
+      213: -3929038914900134794
+    second: SigmaTerrain01_326
+  - first:
+      213: 1052817148399269685
+    second: SigmaTerrain01_327
+  - first:
+      213: -4727280347755174912
+    second: SigmaTerrain01_328
+  - first:
+      213: 61741969627802950
+    second: SigmaTerrain01_329
+  - first:
+      213: 7067164656820628828
+    second: SigmaTerrain01_330
+  - first:
+      213: 2564230442810306956
+    second: SigmaTerrain01_331
+  - first:
+      213: 3568374428108675685
+    second: SigmaTerrain01_332
+  - first:
+      213: -2013211894853797878
+    second: SigmaTerrain01_333
+  - first:
+      213: 8340091500953884304
+    second: SigmaTerrain01_334
+  - first:
+      213: -6707926004376259431
+    second: SigmaTerrain01_335
+  - first:
+      213: -7654219081449627479
+    second: SigmaTerrain01_336
+  - first:
+      213: 2926059200407241393
+    second: SigmaTerrain01_337
+  - first:
+      213: 6762056497929687507
+    second: SigmaTerrain01_338
+  - first:
+      213: -8371579782380273712
+    second: SigmaTerrain01_339
+  - first:
+      213: 5994237350481939842
+    second: SigmaTerrain01_340
+  - first:
+      213: -8603880450897518998
+    second: SigmaTerrain01_341
+  - first:
+      213: -8564545704843222866
+    second: SigmaTerrain01_342
+  - first:
+      213: -247958233532717194
+    second: SigmaTerrain01_343
+  - first:
+      213: 4432037270598738292
+    second: SigmaTerrain01_344
+  - first:
+      213: 4120785782638261874
+    second: SigmaTerrain01_345
+  - first:
+      213: -799263236259342792
+    second: SigmaTerrain01_346
+  - first:
+      213: 7010246145206559984
+    second: SigmaTerrain01_347
+  - first:
+      213: -8358097155213037418
+    second: SigmaTerrain01_348
+  - first:
+      213: -1053781120341856201
+    second: SigmaTerrain01_349
+  - first:
+      213: 697559839177211447
+    second: SigmaTerrain01_350
+  - first:
+      213: 1241123344655648283
+    second: SigmaTerrain01_351
+  - first:
+      213: 817669943111486026
+    second: SigmaTerrain01_352
+  - first:
+      213: 6447857798309140479
+    second: SigmaTerrain01_353
+  - first:
+      213: -6024753433363196953
+    second: SigmaTerrain01_354
+  - first:
+      213: -892871698907493747
+    second: SigmaTerrain01_355
+  - first:
+      213: 3399724358120152496
+    second: SigmaTerrain01_356
+  - first:
+      213: -5354007984363568024
+    second: SigmaTerrain01_357
+  - first:
+      213: 1349304601034730270
+    second: SigmaTerrain01_358
+  - first:
+      213: -4471294448002124577
+    second: SigmaTerrain01_359
+  - first:
+      213: 3753847509991294155
+    second: SigmaTerrain01_360
+  - first:
+      213: -4595483081746745799
+    second: SigmaTerrain01_361
+  - first:
+      213: -2114844043715934723
+    second: SigmaTerrain01_362
+  - first:
+      213: -254614151505942526
+    second: SigmaTerrain01_363
+  - first:
+      213: 3373287041661500703
+    second: SigmaTerrain01_364
+  - first:
+      213: -8937106052610505744
+    second: SigmaTerrain01_365
+  - first:
+      213: -5764579261880148163
+    second: SigmaTerrain01_366
+  - first:
+      213: -7925585558295333209
+    second: SigmaTerrain01_367
+  - first:
+      213: 4446480317892577233
+    second: SigmaTerrain01_368
+  - first:
+      213: -8088020561888777299
+    second: SigmaTerrain01_369
+  - first:
+      213: 3421799784980754129
+    second: SigmaTerrain01_370
+  - first:
+      213: -2193328345661721851
+    second: SigmaTerrain01_371
+  - first:
+      213: -6052305203874316705
+    second: SigmaTerrain01_372
+  - first:
+      213: 495841306531295692
+    second: SigmaTerrain01_373
+  - first:
+      213: 4118923354431430512
+    second: SigmaTerrain01_374
+  - first:
+      213: 4305874571640035656
+    second: SigmaTerrain01_375
+  - first:
+      213: -8436434458588068120
+    second: SigmaTerrain01_376
+  - first:
+      213: -3776383779695502633
+    second: SigmaTerrain01_377
+  - first:
+      213: -7555648859400139408
+    second: SigmaTerrain01_378
+  - first:
+      213: 2707137770166659305
+    second: SigmaTerrain01_379
+  - first:
+      213: -8474298733721019556
+    second: SigmaTerrain01_380
+  - first:
+      213: -2985745933390570081
+    second: SigmaTerrain01_381
+  - first:
+      213: 3539775782452998845
+    second: SigmaTerrain01_382
+  - first:
+      213: 7830950594302549567
+    second: SigmaTerrain01_383
+  - first:
+      213: 72256032043401822
+    second: SigmaTerrain01_384
+  - first:
+      213: -7923152595183452451
+    second: SigmaTerrain01_385
+  - first:
+      213: 9160794679492122466
+    second: SigmaTerrain01_386
+  - first:
+      213: -4854282263341001015
+    second: SigmaTerrain01_387
+  - first:
+      213: -8115033432980515002
+    second: SigmaTerrain01_388
+  - first:
+      213: 5427319207074047357
+    second: SigmaTerrain01_389
+  - first:
+      213: -7841512044623857360
+    second: SigmaTerrain01_390
+  - first:
+      213: -5152614126672058739
+    second: SigmaTerrain01_391
+  - first:
+      213: 4163864797192720279
+    second: SigmaTerrain01_392
+  - first:
+      213: 1771691376077571852
+    second: SigmaTerrain01_393
+  - first:
+      213: 521167464757755987
+    second: SigmaTerrain01_394
+  - first:
+      213: -7290297405416736352
+    second: SigmaTerrain01_395
+  - first:
+      213: 3970019030959414310
+    second: SigmaTerrain01_396
+  - first:
+      213: 5091346103568315570
+    second: SigmaTerrain01_397
+  - first:
+      213: -221473935260097150
+    second: SigmaTerrain01_398
+  - first:
+      213: -5005596278445199723
+    second: SigmaTerrain01_399
+  - first:
+      213: -4912261837759765632
+    second: SigmaTerrain01_400
+  - first:
+      213: 1304892133638133109
+    second: SigmaTerrain01_401
+  - first:
+      213: -3278302075212772017
+    second: SigmaTerrain01_402
+  - first:
+      213: -3785577913328040945
+    second: SigmaTerrain01_403
+  - first:
+      213: -558363282964228434
+    second: SigmaTerrain01_404
+  - first:
+      213: -2934286855056370304
+    second: SigmaTerrain01_405
+  - first:
+      213: -2480442131462178082
+    second: SigmaTerrain01_406
+  - first:
+      213: -7152185073506299395
+    second: SigmaTerrain01_407
+  - first:
+      213: 4143201008677296881
+    second: SigmaTerrain01_408
+  - first:
+      213: 3548362150649771596
+    second: SigmaTerrain01_409
+  - first:
+      213: 5121334926541313798
+    second: SigmaTerrain01_410
+  - first:
+      213: -6561759429744365285
+    second: SigmaTerrain01_411
+  - first:
+      213: 5493305785322037907
+    second: SigmaTerrain01_412
+  - first:
+      213: 2158921962811027941
+    second: SigmaTerrain01_413
+  - first:
+      213: -3154147824252765146
+    second: SigmaTerrain01_414
+  - first:
+      213: 4551238945927737184
+    second: SigmaTerrain01_415
+  - first:
+      213: 2230917395952626994
+    second: SigmaTerrain01_416
+  - first:
+      213: -363085683342320419
+    second: SigmaTerrain01_417
+  - first:
+      213: 7763356036123330471
+    second: SigmaTerrain01_418
+  - first:
+      213: -6057446158384867544
+    second: SigmaTerrain01_419
+  - first:
+      213: -4540307278127316951
+    second: SigmaTerrain01_420
+  - first:
+      213: 317176319502433300
+    second: SigmaTerrain01_421
+  - first:
+      213: 8658082822548136805
+    second: SigmaTerrain01_422
+  - first:
+      213: -2958082328486767403
+    second: SigmaTerrain01_423
+  - first:
+      213: 3390712537084278398
+    second: SigmaTerrain01_424
+  - first:
+      213: -24555929943713459
+    second: SigmaTerrain01_425
+  - first:
+      213: -8388491489523293103
+    second: SigmaTerrain01_426
+  - first:
+      213: 5139581127360736198
+    second: SigmaTerrain01_427
+  - first:
+      213: 4654545216641337751
+    second: SigmaTerrain01_428
+  - first:
+      213: -977249458405916425
+    second: SigmaTerrain01_429
+  - first:
+      213: -8201452247729564815
+    second: SigmaTerrain01_430
+  - first:
+      213: 4965763554862517540
+    second: SigmaTerrain01_431
+  - first:
+      213: -5876239455921918684
+    second: SigmaTerrain01_432
+  - first:
+      213: -8464528258897518848
+    second: SigmaTerrain01_433
+  - first:
+      213: -5439549272421518809
+    second: SigmaTerrain01_434
+  - first:
+      213: -4075146287539853469
+    second: SigmaTerrain01_435
+  - first:
+      213: 502471757378583546
+    second: SigmaTerrain01_436
+  - first:
+      213: -3029207496042235212
+    second: SigmaTerrain01_437
+  - first:
+      213: 6524600228551266642
+    second: SigmaTerrain01_438
+  - first:
+      213: -8036367275461141781
+    second: SigmaTerrain01_439
+  - first:
+      213: 9065819047651692716
+    second: SigmaTerrain01_440
+  - first:
+      213: 4837986611988696699
+    second: SigmaTerrain01_441
+  - first:
+      213: 3578047532913550897
+    second: SigmaTerrain01_442
+  - first:
+      213: -261195127032093598
+    second: SigmaTerrain01_443
+  - first:
+      213: 9055186494498843651
+    second: SigmaTerrain01_444
+  - first:
+      213: -5631609008452264815
+    second: SigmaTerrain01_445
+  - first:
+      213: -4500972899056116488
+    second: SigmaTerrain01_446
+  - first:
+      213: 7868923309769964883
+    second: SigmaTerrain01_447
+  - first:
+      213: 5354921314265058875
+    second: SigmaTerrain01_448
+  - first:
+      213: 4265487432178960430
+    second: SigmaTerrain01_449
+  - first:
+      213: 1964866919131270967
+    second: SigmaTerrain01_450
+  - first:
+      213: 3343711524435225933
+    second: SigmaTerrain01_451
+  - first:
+      213: -2102588472643867238
+    second: SigmaTerrain01_452
+  - first:
+      213: 4120117717149263186
+    second: SigmaTerrain01_453
+  - first:
+      213: -6753595721142199144
+    second: SigmaTerrain01_454
+  - first:
+      213: -6367665352766297254
+    second: SigmaTerrain01_455
+  - first:
+      213: -5937021112196874075
+    second: SigmaTerrain01_456
+  - first:
+      213: -1819992554344904433
+    second: SigmaTerrain01_457
+  - first:
+      213: -9022557930170752982
+    second: SigmaTerrain01_458
+  - first:
+      213: 3285681351413523316
+    second: SigmaTerrain01_459
+  - first:
+      213: 4133718115970197065
+    second: SigmaTerrain01_460
+  - first:
+      213: -2611584662311335259
+    second: SigmaTerrain01_461
+  - first:
+      213: 1246612498422137793
+    second: SigmaTerrain01_462
+  - first:
+      213: 3408949558024548920
+    second: SigmaTerrain01_463
+  - first:
+      213: -5414287539619076909
+    second: SigmaTerrain01_464
+  - first:
+      213: 457534906998225077
+    second: SigmaTerrain01_465
+  - first:
+      213: 4360876537238386499
+    second: SigmaTerrain01_466
+  - first:
+      213: -7742857726462485881
+    second: SigmaTerrain01_467
+  - first:
+      213: 7400753426098344725
+    second: SigmaTerrain01_468
+  - first:
+      213: 4098593245921243713
+    second: SigmaTerrain01_469
+  - first:
+      213: -452552214696966342
+    second: SigmaTerrain01_470
+  - first:
+      213: -800022713921261900
+    second: SigmaTerrain01_471
+  - first:
+      213: 581543756026432854
+    second: SigmaTerrain01_472
+  - first:
+      213: -5517658322900777164
+    second: SigmaTerrain01_473
+  - first:
+      213: 1985907337836826591
+    second: SigmaTerrain01_474
+  - first:
+      213: 4148456708596164156
+    second: SigmaTerrain01_475
+  - first:
+      213: -7165011400599991758
+    second: SigmaTerrain01_476
+  - first:
+      213: -1886169112641840373
+    second: SigmaTerrain01_477
+  - first:
+      213: 4651115217153121859
+    second: SigmaTerrain01_478
+  - first:
+      213: 1601310223284228963
+    second: SigmaTerrain01_479
+  - first:
+      213: -5044335646067453219
+    second: SigmaTerrain01_480
+  - first:
+      213: -818853517306776214
+    second: SigmaTerrain01_481
+  - first:
+      213: 5553901663727575972
+    second: SigmaTerrain01_482
+  - first:
+      213: 2636581814920249797
+    second: SigmaTerrain01_483
+  - first:
+      213: 1277386722032787442
+    second: SigmaTerrain01_484
+  - first:
+      213: -120840389280538313
+    second: SigmaTerrain01_485
+  - first:
+      213: -6971648970911705594
+    second: SigmaTerrain01_486
+  - first:
+      213: 8500918849565876621
+    second: SigmaTerrain01_487
+  - first:
+      213: -8254634120145589457
+    second: SigmaTerrain01_488
+  - first:
+      213: -4392594018230348190
+    second: SigmaTerrain01_489
+  - first:
+      213: -2007572483306378869
+    second: SigmaTerrain01_490
+  - first:
+      213: 6514998951273802192
+    second: SigmaTerrain01_491
+  - first:
+      213: -844114346821399330
+    second: SigmaTerrain01_492
+  - first:
+      213: 1331233920144300581
+    second: SigmaTerrain01_493
+  - first:
+      213: 7842745128466942171
+    second: SigmaTerrain01_494
+  - first:
+      213: -6655098776001004301
+    second: SigmaTerrain01_495
+  - first:
+      213: 7275148112918894224
+    second: SigmaTerrain01_496
+  - first:
+      213: -1817006989771185240
+    second: SigmaTerrain01_497
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SigmaTerrain01_0
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 14}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc7f498bfeec72d0800000000000000
+      internalID: -3279483664524673849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_1
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 14}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14bd4dfb523152c20800000000000000
+      internalID: 3180969764660239169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_2
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 14}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b2531e3df0d15c0800000000000000
+      internalID: -4243217871222265020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_3
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ecc871252e6d470800000000000000
+      internalID: 8419165395626020362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_4
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f100350eed75020800000000000000
+      internalID: 2330576387234078557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_5
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 30}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff7fc23e508d03b0800000000000000
+      internalID: -5544634424155471878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_6
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47fd1728efaafb1f0800000000000000
+      internalID: -1026914179930267788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c3bcf6893f00be0800000000000000
+      internalID: -1512941638760317946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_8
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a8150c4d6749ee0800000000000000
+      internalID: -1255247739997812090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_9
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 14}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57bae967bc46caf0800000000000000
+      internalID: -376529168199141541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_10
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 14}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9163477e696a111d0800000000000000
+      internalID: -3381738678120073703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_11
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 14}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db27c1f0a93b48850800000000000000
+      internalID: 6378420446523323069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 14}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3caa34ad89aa905c0800000000000000
+      internalID: -4248677199973733693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 14}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f9fd0c112ec0260800000000000000
+      internalID: 7065270481315667763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 14}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44f1348a2e3d0b10800000000000000
+      internalID: 1949282566048707659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 14}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c2ebdd0f0111630800000000000000
+      internalID: 3895913779350613039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 14}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 638dae4191cfc3df0800000000000000
+      internalID: -199007098855827402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 14}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7badbc8627bcc070800000000000000
+      internalID: 8128072803694783358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 14}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8953e4e5908750e0800000000000000
+      internalID: -2281213304961279605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_19
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 14}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc01959bc7ab746d0800000000000000
+      internalID: -3006229181398183731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 14}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be04b834b23a550d0800000000000000
+      internalID: -3434659734588014357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_21
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 14}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6596d4227f6a690800000000000000
+      internalID: -7591108395186694451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_22
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 14}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5138ab4a180d08060800000000000000
+      internalID: 6953787079893091093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_23
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 14}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867bc6af6f7717170800000000000000
+      internalID: 8174446701301249896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_24
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f869542c54d59b0800000000000000
+      internalID: -5089835303165325493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_25
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77939da79f2e99f70800000000000000
+      internalID: 9194629675389368695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_26
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 14}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b6a492407a729d0800000000000000
+      internalID: -2799085007073023095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_27
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 14}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1f238d4fe985a00800000000000000
+      internalID: 745520512766243306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_28
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 14}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab569383c6ab48c40800000000000000
+      internalID: 5513736817770849722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_29
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 14}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a78f8ff5d91295b0800000000000000
+      internalID: -5363195799338514520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_30
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af133843f075b4050800000000000000
+      internalID: 5785813869104673274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_31
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 841f6dfe8b2f5a170800000000000000
+      internalID: 8189218373554860360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_32
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a280de824877b4580800000000000000
+      internalID: -8841842033905825750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_33
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5a0342cf5f1dd10800000000000000
+      internalID: 2148768960520168930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_34
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 14}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79be506e087ea15f0800000000000000
+      internalID: -785060644221752425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_35
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 14}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee6838d1e448e070800000000000000
+      internalID: 8135828463630708462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_36
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 14}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4311e84e75b45de0800000000000000
+      internalID: -1345250834683718837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_37
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 14}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525bdda88c52fcd80800000000000000
+      internalID: -8228316450929134299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_38
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 14}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba23a70cabaa1a20800000000000000
+      internalID: 3033926054338308797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_39
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af55f6cf810b0890800000000000000
+      internalID: -7490891838170767453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_40
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0f8263e991349e0800000000000000
+      internalID: -1638437672128548681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_41
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd3a1204c8574c60800000000000000
+      internalID: 7802302478314782139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_42
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 14}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 2}
+        - {x: 16, y: 2}
+        - {x: 16, y: -16}
+      physicsShape:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 2}
+        - {x: 16, y: 2}
+        - {x: 16, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8315b7d44e91ed990800000000000000
+      internalID: -7359416272733646536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_43
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 14}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 2}
+        - {x: 16, y: 2}
+        - {x: 16, y: -16}
+      physicsShape:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 2}
+        - {x: 16, y: 2}
+        - {x: 16, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5ccd9f7f9a751a0800000000000000
+      internalID: -6820796228115315238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_44
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df40ceaaa354b4a0800000000000000
+      internalID: -6578541163140067372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_45
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c277c4dfea5ccde90800000000000000
+      internalID: -6999502365475965140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_46
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072198237ffb44330800000000000000
+      internalID: 3694288662776320624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_47
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 14}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 2}
+        - {x: 16, y: 2}
+        - {x: 16, y: -16}
+      physicsShape:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 2}
+        - {x: 16, y: 2}
+        - {x: 16, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad64569966c03a50800000000000000
+      internalID: 6498912419091606954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_48
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 14}
+      outline:
+      - - {x: -16, y: -9.5}
+        - {x: -16, y: 8.5}
+        - {x: 16, y: 8.5}
+        - {x: 16, y: -9.5}
+      physicsShape:
+      - - {x: -16, y: -9.5}
+        - {x: -16, y: 8.5}
+        - {x: 16, y: 8.5}
+        - {x: 16, y: -9.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a87408c64cff4e0800000000000000
+      internalID: -1945620543713080681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_49
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 14}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 2}
+        - {x: 16, y: 2}
+        - {x: 16, y: -16}
+      physicsShape:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 2}
+        - {x: 16, y: 2}
+        - {x: 16, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e637c348ab4a0adc0800000000000000
+      internalID: -3629720178671193234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_50
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 14}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 2}
+        - {x: 16, y: 2}
+        - {x: 16, y: -16}
+      physicsShape:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 2}
+        - {x: 16, y: 2}
+        - {x: 16, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fda21f5baba495d0800000000000000
+      internalID: -3056629494554907145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_51
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 14}
+      outline:
+      - - {x: -16, y: -9.5}
+        - {x: -16, y: 8.5}
+        - {x: 16, y: 8.5}
+        - {x: 16, y: -9.5}
+      physicsShape:
+      - - {x: -16, y: -9.5}
+        - {x: -16, y: 8.5}
+        - {x: 16, y: 8.5}
+        - {x: 16, y: -9.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb6f778a0ef0bc00800000000000000
+      internalID: 914510045532613609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_52
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 14}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 2}
+        - {x: 16, y: 2}
+        - {x: 16, y: -16}
+      physicsShape:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 2}
+        - {x: 16, y: 2}
+        - {x: 16, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46275f3abbfd17950800000000000000
+      internalID: 6445178538746540644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_53
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 14}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 2}
+        - {x: 16, y: 2}
+        - {x: 16, y: -16}
+      physicsShape:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 2}
+        - {x: 16, y: 2}
+        - {x: 16, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55316a2da6d91df10800000000000000
+      internalID: 2292786767434486613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b88b45d2680066d0800000000000000
+      internalID: -2999388131250435917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_55
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04e5dae841d58ef0800000000000000
+      internalID: -106448905065602038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_56
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f35f50558978dce0800000000000000
+      internalID: -1380219672303021072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_57
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d327e3777f8bbbb0800000000000000
+      internalID: -4919180424763726894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_58
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda9414272c68fcc0800000000000000
+      internalID: -3677070180383155491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_59
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2b93aa4f6b64e10800000000000000
+      internalID: 2181632231451767486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_60
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e855f5843bb7f20800000000000000
+      internalID: 3421525465336483477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_61
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2409cd3fb4c18350800000000000000
+      internalID: 6017306902798074923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_62
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae35cc1c6e318d080800000000000000
+      internalID: -9162551560070474774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_63
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ecd83ea802ca5ce0800000000000000
+      internalID: -1415605790316110624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_64
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af54da6c24c82000800000000000000
+      internalID: 11474694118334377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_65
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb59dd8c62d4c2b00800000000000000
+      internalID: 805103262366537150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_66
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d1b046f67b29f90800000000000000
+      internalID: -6948289586031551126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_67
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91a9aae057af2ca0800000000000000
+      internalID: -6039424609304338022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_68
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8f19409eac4cdd0800000000000000
+      internalID: -2466623593739323140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_69
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5419276b6062b1d0800000000000000
+      internalID: -3336498359519603618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_70
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3bf0f7506a713cf0800000000000000
+      internalID: -274303548082029763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_71
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5d0f49610bb2940800000000000000
+      internalID: 5272501399801877956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_72
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87460108c88a8040800000000000000
+      internalID: 4650679957805483915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_73
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef8c527dd8a85690800000000000000
+      internalID: -7613149501009915928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_74
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e930cbbb1ff7c40800000000000000
+      internalID: 5512390257540308566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_75
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66124d01ab6a612d0800000000000000
+      internalID: -3308273558180585114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_76
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490553f5b9d069960800000000000000
+      internalID: 7608283581457453204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_77
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76f1d0d490985ad0800000000000000
+      internalID: -2713259806657743234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_78
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a79a1f6393fb9d50800000000000000
+      internalID: 6745252681467205540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_79
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc58c1dfec0fa3a0800000000000000
+      internalID: -6652083900446647102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_80
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a25a0f75a2998100800000000000000
+      internalID: 110780905345929894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_81
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f25e03c6d43e15f0800000000000000
+      internalID: -784131188115746056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_82
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5b4b84a0dae22a0800000000000000
+      internalID: -6760275730955454981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_83
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79426d7f042034e0800000000000000
+      internalID: -2004062185233168002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_84
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794a44663a7a21090800000000000000
+      internalID: -8065199662429854569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_85
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1807d9eae24e690800000000000000
+      internalID: -7573877345829748285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_86
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdef9e0644ef97ab0800000000000000
+      internalID: -5009693540835787044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_87
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4e6b2a5f4fe8f60800000000000000
+      internalID: 8038631720736973990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_88
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac0144cf7e010d00800000000000000
+      internalID: 937046139386006700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_89
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b260f87826310d0800000000000000
+      internalID: -3453308154903385290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_90
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f65a866e385f9b0800000000000000
+      internalID: -5046982781777383620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_91
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c2d785ef2123ba0800000000000000
+      internalID: -6110800860772750212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_92
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d966f9b51d307a80800000000000000
+      internalID: -8471203735560361517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_93
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb08442d3ffc5130800000000000000
+      internalID: 3556998443782638534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_94
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c91179cffdd7c60800000000000000
+      internalID: 7817650804144315473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_95
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d663cff75281a200800000000000000
+      internalID: 189575973791033045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a775da7c16661f690800000000000000
+      internalID: -7570156928485206150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_97
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c45a4a26a5451c0800000000000000
+      internalID: -4515885146630173559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_98
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ff97126994168f0800000000000000
+      internalID: -549076770406924524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_99
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253747aaac1ac1a30800000000000000
+      internalID: 4187399645362942802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_100
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0229520e42783f90800000000000000
+      internalID: -6973698343610801650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_101
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5746dc0636ee170800000000000000
+      internalID: 8209608438156916190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_102
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294320bf6146c29d0800000000000000
+      internalID: -2797751218640636782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_103
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23d23f0e3dba8ce0800000000000000
+      internalID: -1402100259731877077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_104
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bcff6b1ee7292920800000000000000
+      internalID: 2965945733216206008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_105
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ad8898b3d46ec20800000000000000
+      internalID: 3235358300418136645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_106
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b46206f42451b710800000000000000
+      internalID: 1707238251473036469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_107
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3887e37b8d002d0800000000000000
+      internalID: -3314411044205984845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_109
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886a073f2d8f2b5c0800000000000000
+      internalID: -4201021917472184696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_110
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601e49a01e3e68660800000000000000
+      internalID: 7387842794432553222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_111
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b4de7da41b982f0800000000000000
+      internalID: -970049309713282279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_112
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d906dbdbce824af70800000000000000
+      internalID: 9197521336258093213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_113
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80aef19e5eed4a10800000000000000
+      internalID: 1895433108136566922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_114
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ae02e3fd14e7d10800000000000000
+      internalID: 2125208501241309805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_115
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08139f73b4d75000800000000000000
+      internalID: 24722190378407948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_116
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f7f60d64f8fbaf0800000000000000
+      internalID: -378426309368381650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_117
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ee57837f07e95f0800000000000000
+      internalID: -748036280990437807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_118
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dfb89edf4baa97a0800000000000000
+      internalID: -6369590363436826668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_119
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886d5bc8e202165a0800000000000000
+      internalID: -6529902600409196920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_120
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9e329c8be418720800000000000000
+      internalID: 2846642995030387122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_121
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7519cb358369ec1a0800000000000000
+      internalID: -6787322419733556905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_122
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1c58a0fea658640800000000000000
+      internalID: 5081585329463738855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_123
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab19bc6c11fe4be70800000000000000
+      internalID: 9130185204215550394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_124
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703017a1f8b25ba60800000000000000
+      internalID: 7689099832428921607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_125
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d877c315caa4dc6d0800000000000000
+      internalID: -2968634475409541235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_126
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03a97c779e868910800000000000000
+      internalID: 1839314279106978572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_127
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b62294310851900800000000000000
+      internalID: 654570141172001578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_128
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178ee783e47d1f590800000000000000
+      internalID: -7642090361715758991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_129
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d851c43de8e6240800000000000000
+      internalID: 4786920492107140458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_130
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77946ec69632cbe90800000000000000
+      internalID: -7008687984389764745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_131
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a676fb494a47b5d0800000000000000
+      internalID: -3046884944225339740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_132
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d3936294bbb5eb0800000000000000
+      internalID: -4729981060774281941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_133
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ca0e5d31890acd0800000000000000
+      internalID: -2548870178131629029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_134
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a05554f5a000420800000000000000
+      internalID: 2594084789666777682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_135
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e93951e79fa4d540800000000000000
+      internalID: 5031839750535330281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_136
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0244db597a073e80800000000000000
+      internalID: -8199073080256740854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_137
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a93945b316dcba70800000000000000
+      internalID: 8844179148383009193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_108
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 128
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a787c3c3b1be74910800000000000000
+      internalID: 1821683076501895290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_138
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 128
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f94c1d06ca51e00800000000000000
+      internalID: 1014906822878076728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SigmaTerrain01_139
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 128
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7964b17c873402ec0800000000000000
+      internalID: -3593798316626065769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b75f42b952d874a17a6f641259245d8e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

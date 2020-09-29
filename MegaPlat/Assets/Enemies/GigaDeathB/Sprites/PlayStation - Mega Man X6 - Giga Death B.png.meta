@@ -1,0 +1,1671 @@
+fileFormatVersion: 2
+guid: 09f9ad77b72d26795a01cfea06dd826e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1421639251698560810
+    second: PlayStation - Mega Man X6 - Giga Death B_0
+  - first:
+      213: -426657198929329298
+    second: PlayStation - Mega Man X6 - Giga Death B_1
+  - first:
+      213: -6822431315436019602
+    second: PlayStation - Mega Man X6 - Giga Death B_2
+  - first:
+      213: 281806583109584674
+    second: PlayStation - Mega Man X6 - Giga Death B_3
+  - first:
+      213: 3259004239850300441
+    second: PlayStation - Mega Man X6 - Giga Death B_4
+  - first:
+      213: -7017319899211321473
+    second: PlayStation - Mega Man X6 - Giga Death B_5
+  - first:
+      213: -1474193978403371889
+    second: PlayStation - Mega Man X6 - Giga Death B_6
+  - first:
+      213: 6538174556478897769
+    second: PlayStation - Mega Man X6 - Giga Death B_7
+  - first:
+      213: 6777867330817116765
+    second: PlayStation - Mega Man X6 - Giga Death B_8
+  - first:
+      213: -8755152291607101382
+    second: PlayStation - Mega Man X6 - Giga Death B_9
+  - first:
+      213: -4409564880793352628
+    second: PlayStation - Mega Man X6 - Giga Death B_10
+  - first:
+      213: -6343237945354840032
+    second: PlayStation - Mega Man X6 - Giga Death B_11
+  - first:
+      213: -1035607392624346977
+    second: PlayStation - Mega Man X6 - Giga Death B_12
+  - first:
+      213: -1166850209033501910
+    second: PlayStation - Mega Man X6 - Giga Death B_13
+  - first:
+      213: 4465686157027634813
+    second: PlayStation - Mega Man X6 - Giga Death B_14
+  - first:
+      213: -8513832274932698303
+    second: PlayStation - Mega Man X6 - Giga Death B_15
+  - first:
+      213: -8591391271158203300
+    second: PlayStation - Mega Man X6 - Giga Death B_16
+  - first:
+      213: 4005715369561893224
+    second: PlayStation - Mega Man X6 - Giga Death B_17
+  - first:
+      213: -5639370242102099191
+    second: PlayStation - Mega Man X6 - Giga Death B_18
+  - first:
+      213: -5496278514696154161
+    second: PlayStation - Mega Man X6 - Giga Death B_19
+  - first:
+      213: 1608398595919865553
+    second: PlayStation - Mega Man X6 - Giga Death B_20
+  - first:
+      213: -6763502896614811406
+    second: PlayStation - Mega Man X6 - Giga Death B_21
+  - first:
+      213: -3090661298208126498
+    second: PlayStation - Mega Man X6 - Giga Death B_22
+  - first:
+      213: 6938276750326589127
+    second: PlayStation - Mega Man X6 - Giga Death B_23
+  - first:
+      213: 6409424129130053188
+    second: PlayStation - Mega Man X6 - Giga Death B_24
+  - first:
+      213: -2031664226583958615
+    second: PlayStation - Mega Man X6 - Giga Death B_25
+  - first:
+      213: 3169415188378361456
+    second: PlayStation - Mega Man X6 - Giga Death B_26
+  - first:
+      213: 5031997700887843509
+    second: PlayStation - Mega Man X6 - Giga Death B_27
+  - first:
+      213: -7758423079110825645
+    second: PlayStation - Mega Man X6 - Giga Death B_28
+  - first:
+      213: -5252509688603653779
+    second: PlayStation - Mega Man X6 - Giga Death B_29
+  - first:
+      213: -6885134516189221682
+    second: PlayStation - Mega Man X6 - Giga Death B_30
+  - first:
+      213: 787349029934912495
+    second: PlayStation - Mega Man X6 - Giga Death B_31
+  - first:
+      213: 1976274669265003682
+    second: PlayStation - Mega Man X6 - Giga Death B_32
+  - first:
+      213: 766498111223946335
+    second: PlayStation - Mega Man X6 - Giga Death B_33
+  - first:
+      213: 6250632152754763263
+    second: PlayStation - Mega Man X6 - Giga Death B_34
+  - first:
+      213: -8539583358019311560
+    second: PlayStation - Mega Man X6 - Giga Death B_35
+  - first:
+      213: 8447484764014508062
+    second: PlayStation - Mega Man X6 - Giga Death B_36
+  - first:
+      213: 1347755304550987748
+    second: PlayStation - Mega Man X6 - Giga Death B_37
+  - first:
+      213: 3888379596784851654
+    second: PlayStation - Mega Man X6 - Giga Death B_38
+  - first:
+      213: -7720278420168438846
+    second: PlayStation - Mega Man X6 - Giga Death B_39
+  - first:
+      213: -5632847620712110404
+    second: PlayStation - Mega Man X6 - Giga Death B_40
+  - first:
+      213: -8788794187989559576
+    second: PlayStation - Mega Man X6 - Giga Death B_41
+  - first:
+      213: 9173556910043031294
+    second: PlayStation - Mega Man X6 - Giga Death B_42
+  - first:
+      213: -4114408924786419155
+    second: PlayStation - Mega Man X6 - Giga Death B_43
+  - first:
+      213: 3616746785322087342
+    second: PlayStation - Mega Man X6 - Giga Death B_44
+  - first:
+      213: 7525584518491379939
+    second: PlayStation - Mega Man X6 - Giga Death B_45
+  - first:
+      213: 6459084692277930514
+    second: PlayStation - Mega Man X6 - Giga Death B_46
+  - first:
+      213: 8710934802862548164
+    second: PlayStation - Mega Man X6 - Giga Death B_47
+  - first:
+      213: 2524755816227122467
+    second: PlayStation - Mega Man X6 - Giga Death B_48
+  - first:
+      213: 4132927121592594786
+    second: PlayStation - Mega Man X6 - Giga Death B_49
+  - first:
+      213: 1833521766002159767
+    second: PlayStation - Mega Man X6 - Giga Death B_50
+  - first:
+      213: 219836588536939641
+    second: PlayStation - Mega Man X6 - Giga Death B_51
+  - first:
+      213: -1383209168574012606
+    second: PlayStation - Mega Man X6 - Giga Death B_52
+  - first:
+      213: 6499057188056370894
+    second: PlayStation - Mega Man X6 - Giga Death B_53
+  - first:
+      213: -4159308632353949962
+    second: PlayStation - Mega Man X6 - Giga Death B_54
+  - first:
+      213: -6831647729907587377
+    second: PlayStation - Mega Man X6 - Giga Death B_55
+  - first:
+      213: 786717536282959631
+    second: PlayStation - Mega Man X6 - Giga Death B_56
+  - first:
+      213: -4411398389123729386
+    second: PlayStation - Mega Man X6 - Giga Death B_57
+  - first:
+      213: 6963005823224277632
+    second: PlayStation - Mega Man X6 - Giga Death B_58
+  - first:
+      213: 7779377077999324379
+    second: PlayStation - Mega Man X6 - Giga Death B_59
+  - first:
+      213: -6506533092453295726
+    second: PlayStation - Mega Man X6 - Giga Death B_60
+  - first:
+      213: 7605737752924914085
+    second: PlayStation - Mega Man X6 - Giga Death B_61
+  - first:
+      213: 2767529138206390227
+    second: PlayStation - Mega Man X6 - Giga Death B_62
+  - first:
+      213: -4811965321108760634
+    second: PlayStation - Mega Man X6 - Giga Death B_63
+  - first:
+      213: -4783917854797736416
+    second: PlayStation - Mega Man X6 - Giga Death B_64
+  - first:
+      213: -7948907328942450257
+    second: PlayStation - Mega Man X6 - Giga Death B_65
+  - first:
+      213: -3725301223752515566
+    second: PlayStation - Mega Man X6 - Giga Death B_66
+  - first:
+      213: 994448297490379132
+    second: PlayStation - Mega Man X6 - Giga Death B_67
+  - first:
+      213: 458150711014483595
+    second: PlayStation - Mega Man X6 - Giga Death B_68
+  - first:
+      213: 4330868249141745555
+    second: PlayStation - Mega Man X6 - Giga Death B_69
+  - first:
+      213: 404657563837396841
+    second: PlayStation - Mega Man X6 - Giga Death B_70
+  - first:
+      213: 842267033439515145
+    second: PlayStation - Mega Man X6 - Giga Death B_71
+  - first:
+      213: 8044410252124684625
+    second: PlayStation - Mega Man X6 - Giga Death B_72
+  - first:
+      213: -3148298185242220184
+    second: PlayStation - Mega Man X6 - Giga Death B_73
+  - first:
+      213: 6849517080248033745
+    second: PlayStation - Mega Man X6 - Giga Death B_74
+  - first:
+      213: 1700323773368855820
+    second: PlayStation - Mega Man X6 - Giga Death B_75
+  - first:
+      213: 834686744599377376
+    second: PlayStation - Mega Man X6 - Giga Death B_76
+  - first:
+      213: -2932248131110818500
+    second: PlayStation - Mega Man X6 - Giga Death B_77
+  - first:
+      213: -1706809027772873624
+    second: PlayStation - Mega Man X6 - Giga Death B_78
+  - first:
+      213: -338953293145785630
+    second: PlayStation - Mega Man X6 - Giga Death B_79
+  - first:
+      213: 1056940840575021122
+    second: PlayStation - Mega Man X6 - Giga Death B_80
+  - first:
+      213: -7975227647495601192
+    second: PlayStation - Mega Man X6 - Giga Death B_81
+  - first:
+      213: 5880365696487342266
+    second: PlayStation - Mega Man X6 - Giga Death B_82
+  - first:
+      213: -1871719641157512085
+    second: PlayStation - Mega Man X6 - Giga Death B_83
+  - first:
+      213: -6415521634895806549
+    second: PlayStation - Mega Man X6 - Giga Death B_84
+  - first:
+      213: -5712263423170659870
+    second: PlayStation - Mega Man X6 - Giga Death B_85
+  - first:
+      213: 3609257138734788890
+    second: PlayStation - Mega Man X6 - Giga Death B_86
+  - first:
+      213: 4529840800441379738
+    second: PlayStation - Mega Man X6 - Giga Death B_87
+  - first:
+      213: 4273446006250238725
+    second: PlayStation - Mega Man X6 - Giga Death B_88
+  - first:
+      213: -7838611737659808866
+    second: PlayStation - Mega Man X6 - Giga Death B_89
+  - first:
+      213: -6756965375280832656
+    second: PlayStation - Mega Man X6 - Giga Death B_90
+  - first:
+      213: -2596461475286149969
+    second: PlayStation - Mega Man X6 - Giga Death B_91
+  - first:
+      213: -99480275979277376
+    second: PlayStation - Mega Man X6 - Giga Death B_92
+  - first:
+      213: 5008222159439038824
+    second: PlayStation - Mega Man X6 - Giga Death B_93
+  - first:
+      213: 6769215820912382777
+    second: PlayStation - Mega Man X6 - Giga Death B_94
+  - first:
+      213: 6260568701221296288
+    second: PlayStation - Mega Man X6 - Giga Death B_95
+  - first:
+      213: 4121792782980455117
+    second: PlayStation - Mega Man X6 - Giga Death B_32
+  - first:
+      213: -2691533151894722181
+    second: PlayStation - Mega Man X6 - Giga Death B_42
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X6 - Giga Death B_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 208
+        width: 84
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d051cbf1a2554ce0800000000000000
+      internalID: -1421639251698560810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X6 - Giga Death B_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 213
+        width: 63
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6344f0c985341af0800000000000000
+      internalID: -426657198929329298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X6 - Giga Death B_2
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 219
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e606fea8ddad151a0800000000000000
+      internalID: -6822431315436019602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X6 - Giga Death B_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 219
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2270d91289d29e300800000000000000
+      internalID: 281806583109584674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X6 - Giga Death B_5
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 220
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.33027297, y: 0.7240395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7faa342bb87d9e90800000000000000
+      internalID: -7017319899211321473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X6 - Giga Death B_6
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 220
+        width: 28
+        height: 26
+      alignment: 9
+      pivot: {x: 0.3297882, y: 0.69688296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f844f33236c9a8be0800000000000000
+      internalID: -1474193978403371889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X6 - Giga Death B_7
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 220
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96efb6e4e134cba50800000000000000
+      internalID: 6538174556478897769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X6 - Giga Death B_8
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 170
+        width: 62
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a441c3d62df0e50800000000000000
+      internalID: 6777867330817116765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X6 - Giga Death B_9
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 169
+        width: 60
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30cf48a0637f7680800000000000000
+      internalID: -8755152291607101382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X6 - Giga Death B_10
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 191
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4646429a141ec2c0800000000000000
+      internalID: -4409564880793352628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X6 - Giga Death B_11
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 191
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028985552ba48f7a0800000000000000
+      internalID: -6343237945354840032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X6 - Giga Death B_12
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 191
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f987bd33098c0a1f0800000000000000
+      internalID: -1035607392624346977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X6 - Giga Death B_13
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 163
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23c778cae38ecfe0800000000000000
+      internalID: -1166850209033501910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X6 - Giga Death B_14
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 165
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ee20c46ed49fd30800000000000000
+      internalID: 4465686157027634813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X6 - Giga Death B_15
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 192
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143716777aac8d980800000000000000
+      internalID: -8513832274932698303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X6 - Giga Death B_16
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 171
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c3934782f35c880800000000000000
+      internalID: -8591391271158203300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X6 - Giga Death B_17
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 170
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8692f0ac7e8279730800000000000000
+      internalID: 4005715369561893224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X6 - Giga Death B_18
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 170
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903889ab4aeecb1b0800000000000000
+      internalID: -5639370242102099191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X6 - Giga Death B_19
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 167
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc39ce8bfcb49b3b0800000000000000
+      internalID: -5496278514696154161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X6 - Giga Death B_20
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 163
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d66a07500e225610800000000000000
+      internalID: 1608398595919865553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X6 - Giga Death B_21
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 157
+        width: 60
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8d2f933f53322a0800000000000000
+      internalID: -6763502896614811406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X6 - Giga Death B_22
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 134
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9c14f9ce3cb15d0800000000000000
+      internalID: -3090661298208126498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X6 - Giga Death B_23
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 133
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c66190a1f5b94060800000000000000
+      internalID: 6938276750326589127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X6 - Giga Death B_24
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 132
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e3d9f6949d2f850800000000000000
+      internalID: 6409424129130053188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X6 - Giga Death B_25
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 130
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab289f66241ec3e0800000000000000
+      internalID: -2031664226583958615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X6 - Giga Death B_26
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 138
+        width: 26
+        height: 12
+      alignment: 9
+      pivot: {x: 0.7880208, y: 0.5407168}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e150152560cfb20800000000000000
+      internalID: 3169415188378361456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X6 - Giga Death B_27
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 138
+        width: 28
+        height: 12
+      alignment: 9
+      pivot: {x: 0.7691536, y: 0.534256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b290009f3f35d540800000000000000
+      internalID: 5031997700887843509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X6 - Giga Death B_28
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 138
+        width: 31
+        height: 12
+      alignment: 9
+      pivot: {x: 0.75557685, y: 0.5464961}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3592860c05b845490800000000000000
+      internalID: -7758423079110825645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X6 - Giga Death B_29
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 138
+        width: 35
+        height: 12
+      alignment: 9
+      pivot: {x: 0.72596085, y: 0.5459811}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d694b7764465b17b0800000000000000
+      internalID: -5252509688603653779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X6 - Giga Death B_30
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 104
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecca2c3f2a61370a0800000000000000
+      internalID: -6885134516189221682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X6 - Giga Death B_31
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 104
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3d48b65c93dea00800000000000000
+      internalID: 787349029934912495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X6 - Giga Death B_33
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 104
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5cd28898f523aa00800000000000000
+      internalID: 766498111223946335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X6 - Giga Death B_34
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 104
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5359e53d4beb650800000000000000
+      internalID: 6250632152754763263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X6 - Giga Death B_35
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 118
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838eb673e2e4d7980800000000000000
+      internalID: -8539583358019311560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X6 - Giga Death B_36
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 101
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18fb9cd2ae7b3570800000000000000
+      internalID: 8447484764014508062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X6 - Giga Death B_37
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 101
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7f8eb0f4034b210800000000000000
+      internalID: 1347755304550987748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X6 - Giga Death B_38
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 117
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cadc3a44ac46f530800000000000000
+      internalID: 3888379596784851654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X6 - Giga Death B_39
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 99
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb0fbe3eaf0cd490800000000000000
+      internalID: -7720278420168438846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X6 - Giga Death B_40
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 115
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6ec8ddeea14d1b0800000000000000
+      internalID: -5632847620712110404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X6 - Giga Death B_41
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 98
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e65dd4404ee70680800000000000000
+      internalID: -8788794187989559576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X6 - Giga Death B_43
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 118
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a9869c1eea6e6c0800000000000000
+      internalID: -4114408924786419155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X6 - Giga Death B_44
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 97
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3b8a5f904413230800000000000000
+      internalID: 3616746785322087342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X6 - Giga Death B_47
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 97
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4a53afc0573e870800000000000000
+      internalID: 8710934802862548164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X6 - Giga Death B_49
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 119
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261ba15e15b1b5930800000000000000
+      internalID: 4132927121592594786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X6 - Giga Death B_50
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 87
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790718ee45af17910800000000000000
+      internalID: 1833521766002159767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X6 - Giga Death B_51
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 85
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974c06866340d0300800000000000000
+      internalID: 219836588536939641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X6 - Giga Death B_52
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 81
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2432519f69addcce0800000000000000
+      internalID: -1383209168574012606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X6 - Giga Death B_55
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 83
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc62144d59c1131a0800000000000000
+      internalID: -6831647729907587377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X6 - Giga Death B_58
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 61
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a624697e091a060800000000000000
+      internalID: 6963005823224277632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X6 - Giga Death B_59
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 62
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc47fb4c36e5fb60800000000000000
+      internalID: 7779377077999324379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X6 - Giga Death B_60
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 62
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2995ff020a624b5a0800000000000000
+      internalID: -6506533092453295726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X6 - Giga Death B_61
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 62
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a10ed970320d8960800000000000000
+      internalID: 7605737752924914085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X6 - Giga Death B_62
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 60
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7b554961d386620800000000000000
+      internalID: 2767529138206390227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X6 - Giga Death B_63
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 58
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c750db0907783db0800000000000000
+      internalID: -4811965321108760634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X6 - Giga Death B_64
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 56
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026d12eae0c1c9db0800000000000000
+      internalID: -4783917854797736416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X6 - Giga Death B_65
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 55
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9d2e146eecfa190800000000000000
+      internalID: -7948907328942450257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X6 - Giga Death B_66
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 54
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21047e446421d4cc0800000000000000
+      internalID: -3725301223752515566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X6 - Giga Death B_4
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 83
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914e4c5d61f4a3d20800000000000000
+      internalID: 3259004239850300441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X6 - Giga Death B_32
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 62
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca915ba2bc833930800000000000000
+      internalID: 4121792782980455117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X6 - Giga Death B_42
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 98
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79a024dbd0c5aad0800000000000000
+      internalID: -2691533151894722181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 298706bf68771acbf9b11a156779616a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

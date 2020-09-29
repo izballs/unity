@@ -1,0 +1,942 @@
+fileFormatVersion: 2
+guid: 47f57e03537547a569526dde72704a39
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6551909137017992975
+    second: grabberBot_0
+  - first:
+      213: -7712026256157751639
+    second: grabberBot_1
+  - first:
+      213: 645091228766675959
+    second: grabberBot_2
+  - first:
+      213: -554519817015393520
+    second: grabberBot_3
+  - first:
+      213: 1688646903211288411
+    second: grabberBot_4
+  - first:
+      213: 1939799185747694509
+    second: grabberBot_5
+  - first:
+      213: 2771646355067993784
+    second: grabberBot_6
+  - first:
+      213: -972531898671179519
+    second: grabberBot_7
+  - first:
+      213: -6500273550530597234
+    second: grabberBot_8
+  - first:
+      213: 6286665121045864843
+    second: grabberBot_9
+  - first:
+      213: -7529628378588161193
+    second: grabberBot_10
+  - first:
+      213: -3229454171374758556
+    second: grabberBot_11
+  - first:
+      213: 6249842244203670912
+    second: grabberBot_12
+  - first:
+      213: 1969364785937018759
+    second: grabberBot_13
+  - first:
+      213: -6370471497617699368
+    second: grabberBot_14
+  - first:
+      213: -2732501978257428035
+    second: grabberBot_15
+  - first:
+      213: 2615783617522700593
+    second: grabberBot_16
+  - first:
+      213: 3502231166470905009
+    second: grabberBot_17
+  - first:
+      213: 8744049096744132368
+    second: grabberBot_18
+  - first:
+      213: -7539757794888637378
+    second: grabberBot_19
+  - first:
+      213: 4200315333902129698
+    second: grabberBot_20
+  - first:
+      213: 3187309033743850274
+    second: grabberBot_21
+  - first:
+      213: 6360387206846089472
+    second: grabberBot_22
+  - first:
+      213: -6820099468153272227
+    second: grabberBot_23
+  - first:
+      213: 7675827919744902715
+    second: grabberBot_24
+  - first:
+      213: -8704695607146105247
+    second: grabberBot_25
+  - first:
+      213: 1007256331282133165
+    second: grabberBot_26
+  - first:
+      213: 7386521947612916402
+    second: grabberBot_27
+  - first:
+      213: -6637102072703030483
+    second: grabberBot_28
+  - first:
+      213: 1543511140214134635
+    second: grabberBot_29
+  - first:
+      213: 2903076203935336290
+    second: grabberBot_30
+  - first:
+      213: 7341720099313304481
+    second: grabberBot_31
+  - first:
+      213: -4167688026681414317
+    second: grabberBot_32
+  - first:
+      213: -1970508062581372098
+    second: grabberBot_33
+  - first:
+      213: 1552506263264291276
+    second: grabberBot_34
+  - first:
+      213: -7868091179506598602
+    second: grabberBot_35
+  - first:
+      213: -4772703256382017474
+    second: grabberBot_36
+  - first:
+      213: -522361023016458275
+    second: grabberBot_37
+  - first:
+      213: 5874286641831491212
+    second: grabberBot_38
+  - first:
+      213: -1705184986206864437
+    second: grabberBot_39
+  - first:
+      213: -753418422675639486
+    second: grabberBot_40
+  - first:
+      213: 6589817234688246848
+    second: grabberBot_41
+  - first:
+      213: 2656838078302758042
+    second: grabberBot_42
+  - first:
+      213: -9217461751733724469
+    second: grabberBot_43
+  - first:
+      213: 3650853822348517276
+    second: grabberBot_44
+  - first:
+      213: 6134493230099383685
+    second: grabberBot_45
+  - first:
+      213: -6839819492949936426
+    second: grabberBot_46
+  - first:
+      213: -4653692849957229475
+    second: grabberBot_47
+  - first:
+      213: 3013726075901479698
+    second: grabberBot_48
+  - first:
+      213: -7375714939783241682
+    second: grabberBot_49
+  - first:
+      213: 6678858560793280796
+    second: grabberBot_50
+  - first:
+      213: -1187907749035389740
+    second: grabberBot_51
+  - first:
+      213: -4982965474414386271
+    second: grabberBot_52
+  - first:
+      213: -7098174373100770137
+    second: grabberBot_53
+  - first:
+      213: 4718686442698390476
+    second: grabberBot_54
+  - first:
+      213: -8352262057781876918
+    second: grabberBot_55
+  - first:
+      213: -2155004698838682844
+    second: grabberBot_56
+  - first:
+      213: -6870741347637329630
+    second: grabberBot_57
+  - first:
+      213: 6803226510405683020
+    second: grabberBot_58
+  - first:
+      213: -5161755050683420304
+    second: grabberBot_59
+  - first:
+      213: 424012303298757199
+    second: grabberBot_60
+  - first:
+      213: -7332535993364502984
+    second: grabberBot_61
+  - first:
+      213: 3212868981463474648
+    second: grabberBot_62
+  - first:
+      213: -6265180957935738549
+    second: grabberBot_63
+  - first:
+      213: 2023220171936124074
+    second: grabberBot_64
+  - first:
+      213: -4748575415000675916
+    second: grabberBot_65
+  - first:
+      213: -7150789246401613086
+    second: grabberBot_66
+  - first:
+      213: -6465697972764146929
+    second: grabberBot_67
+  - first:
+      213: -8784284348151427123
+    second: grabberBot_68
+  - first:
+      213: 5732494795503453192
+    second: grabberBot_69
+  - first:
+      213: 2472032067627492180
+    second: grabberBot_70
+  - first:
+      213: -7588581437250139890
+    second: grabberBot_71
+  - first:
+      213: 6336764256978084345
+    second: grabberBot_72
+  - first:
+      213: 4076135982986048142
+    second: grabberBot_73
+  - first:
+      213: 5773344809672633596
+    second: grabberBot_74
+  - first:
+      213: -8858353844849973268
+    second: grabberBot_75
+  - first:
+      213: 5281985160258307035
+    second: grabberBot_76
+  - first:
+      213: -1554266502546641372
+    second: grabberBot_77
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: grabberBot_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 817
+        width: 69
+        height: 59
+      alignment: 9
+      pivot: {x: 0.49249908, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f808677a51f215a0800000000000000
+      internalID: -6551909137017992975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grabberBot_1
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 817
+        width: 71
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5068499, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a64b37eaf069f490800000000000000
+      internalID: -7712026256157751639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grabberBot_2
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 817
+        width: 70
+        height: 58
+      alignment: 9
+      pivot: {x: 0.49920523, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3ab520e03d3f800800000000000000
+      internalID: 645091228766675959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grabberBot_3
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 817
+        width: 71
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5073668, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01302e51a23fd48f0800000000000000
+      internalID: -554519817015393520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grabberBot_4
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 718
+        width: 69
+        height: 56
+      alignment: 9
+      pivot: {x: 0.47845593, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57e8f069674f6710800000000000000
+      internalID: 1688646903211288411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grabberBot_5
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 719
+        width: 69
+        height: 54
+      alignment: 9
+      pivot: {x: 0.47768015, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3551af41d8bea10800000000000000
+      internalID: 1939799185747694509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grabberBot_6
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 720
+        width: 69
+        height: 52
+      alignment: 9
+      pivot: {x: 0.47869343, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be75d4dcadd67620800000000000000
+      internalID: 2771646355067993784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grabberBot_7
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 712
+        width: 60
+        height: 68
+      alignment: 9
+      pivot: {x: 0.43951163, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109d7fe046fd082f0800000000000000
+      internalID: -972531898671179519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grabberBot_8
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 603
+        width: 65
+        height: 87
+      alignment: 9
+      pivot: {x: 0.3077604, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ea1cd45a36ac5a0800000000000000
+      internalID: -6500273550530597234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grabberBot_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 606
+        width: 59
+        height: 81
+      alignment: 9
+      pivot: {x: 0.33791596, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81e6c19e98be3750800000000000000
+      internalID: 6286665121045864843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grabberBot_10
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 617
+        width: 81
+        height: 59
+      alignment: 9
+      pivot: {x: 0.4184107, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b5d8322e2618790800000000000000
+      internalID: -7529628378588161193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grabberBot_11
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 618
+        width: 69
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465ddc0aa8cae23d0800000000000000
+      internalID: -3229454171374758556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grabberBot_12
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 516
+        width: 68
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5879851, y: 0.050287884}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d6df37866ebb650800000000000000
+      internalID: 6249842244203670912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grabberBot_13
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 516
+        width: 79
+        height: 60
+      alignment: 9
+      pivot: {x: 0.6452142, y: 0.050357055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f60f2b6d6945b10800000000000000
+      internalID: 1969364785937018759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grabberBot_14
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 516
+        width: 91
+        height: 60
+      alignment: 9
+      pivot: {x: 0.6922098, y: 0.050306194}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd0fb4dce98797a0800000000000000
+      internalID: -6370471497617699368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grabberBot_15
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 516
+        width: 100
+        height: 60
+      alignment: 9
+      pivot: {x: 0.71992034, y: 0.05070699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1f9ed9de3341ad0800000000000000
+      internalID: -2732501978257428035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grabberBot_16
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 417
+        width: 105
+        height: 60
+      alignment: 9
+      pivot: {x: 0.73307425, y: 0.03359019}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1311ab357512d4420800000000000000
+      internalID: 2615783617522700593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grabberBot_18
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 416
+        width: 137
+        height: 60
+      alignment: 9
+      pivot: {x: 0.7953745, y: 0.050034586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f5206535a195970800000000000000
+      internalID: 8744049096744132368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grabberBot_19
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 416
+        width: 126
+        height: 60
+      alignment: 9
+      pivot: {x: 0.77758765, y: 0.050499473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e342e2f9b366d5790800000000000000
+      internalID: -7539757794888637378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grabberBot_20
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 316
+        width: 119
+        height: 60
+      alignment: 9
+      pivot: {x: 0.76446086, y: 0.05017446}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22adcddba848a4a30800000000000000
+      internalID: 4200315333902129698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grabberBot_22
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 316
+        width: 144
+        height: 60
+      alignment: 9
+      pivot: {x: 0.80531543, y: 0.05056966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00900024772a44850800000000000000
+      internalID: 6360387206846089472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grabberBot_24
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 316
+        width: 147
+        height: 60
+      alignment: 9
+      pivot: {x: 0.8094221, y: 0.050193276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36ab6123d4068a60800000000000000
+      internalID: 7675827919744902715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grabberBot_27
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 217
+        width: 151
+        height: 60
+      alignment: 9
+      pivot: {x: 0.81452286, y: 0.033839162}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba281d6392328660800000000000000
+      internalID: 7386521947612916402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grabberBot_34
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 216
+        width: 157
+        height: 60
+      alignment: 9
+      pivot: {x: 0.8215406, y: 0.05012385}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9ef6d883c9b8510800000000000000
+      internalID: 1552506263264291276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grabberBot_44
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 116
+        width: 158
+        height: 60
+      alignment: 9
+      pivot: {x: 0.82273084, y: 0.050337348}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9fd5f755307aa230800000000000000
+      internalID: 3650853822348517276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grabberBot_55
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 116
+        width: 161
+        height: 60
+      alignment: 9
+      pivot: {x: 0.82599163, y: 0.050303522}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4720fe19edc61c80800000000000000
+      internalID: -8352262057781876918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grabberBot_66
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 16
+        width: 173
+        height: 60
+      alignment: 9
+      pivot: {x: 0.83806473, y: 0.050301425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e27c80211b43cc90800000000000000
+      internalID: -7150789246401613086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grabberBot_77
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 16
+        width: 163
+        height: 60
+      alignment: 9
+      pivot: {x: 0.828049, y: 0.05016276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e2b6dc9d22e6ae0800000000000000
+      internalID: -1554266502546641372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures:
+    - texture: {fileID: 2800000, guid: 8d6f2b99427d7816790b52d3b251b0e8, type: 3}
+      name: _NormalMap
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
